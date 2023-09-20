@@ -31,16 +31,16 @@ export default function App() {
           <div className="right">
             <ul>
               <li>
-                <a href="/">Home</a>
+                <a href="#">Home</a>
               </li>
               <li>
-                <a href="/">About</a>
+                <a href="#">About</a>
               </li>
               <li>
-                <a href="/">Services</a>
+                <a href="#">Services</a>
               </li>
               <li>
-                <a href="/">Projects</a>
+                <a href="#">Projects</a>
               </li>
               <li>
                 <a href="mailto:talhasajid58@gmail.com">Contact</a>
@@ -117,13 +117,13 @@ export default function App() {
           <div className="footer-second">
             <ul>
               <li>
-                <a href="/">Home</a>
+                <a href="#">Home</a>
               </li>
               <li>
-                <a href="/">About</a>
+                <a href="#">About</a>
               </li>
               <li>
-                <a href="/">Services</a>
+                <a href="#">Services</a>
               </li>
               <li>
                 <a href="mailto:talhasajid58@gmail.com">Contact</a>
@@ -133,13 +133,13 @@ export default function App() {
           <div className="footer-third">
             <ul>
               <li>
-                <a href="/">Home</a>
+                <a href="#">Home</a>
               </li>
               <li>
-                <a href="/">About</a>
+                <a href="#">About</a>
               </li>
               <li>
-                <a href="/">Services</a>
+                <a href="#">Services</a>
               </li>
               <li>
                 <a href="mailto:talhasajid58@gmail.com">Contact</a>
@@ -149,13 +149,13 @@ export default function App() {
           <div className="footer-fourth">
             <ul>
               <li>
-                <a href="/">Home</a>
+                <a href="#">Home</a>
               </li>
               <li>
-                <a href="/">About</a>
+                <a href="#">About</a>
               </li>
               <li>
-                <a href="/">Services</a>
+                <a href="#">Services</a>
               </li>
               <li>
                 <a href="mailto:talhasajid58@gmail.com">Contact</a>
